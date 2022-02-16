@@ -1,2 +1,2 @@
 # python-luhn
-Simple calculate and check luhn formula in python
+Simple calculate and check the Luhn formula in python
